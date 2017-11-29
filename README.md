@@ -11,6 +11,7 @@
 # 後期6回目(11/24)
 ## 話題
 - UniRxとZenject https://github.com/dat17/gp1/wiki/UniRx%E3%81%A8Zenject%E3%83%A1%E3%83%A2
+- http://assetsale.hateblo.jp/entry/RageSpline
 
 ## 予定
 - GitHub LFSの利用
